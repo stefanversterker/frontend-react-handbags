@@ -76,7 +76,7 @@ function App() {
                 </section>
                 <section>
                     <Tile>
-                        <h3>The Brand</h3>
+                        <h3>Our Story</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                             incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
                             exercitation
